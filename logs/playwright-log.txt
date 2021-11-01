@@ -1,0 +1,66 @@
+{"level":30,"time":"2021-11-01T03:03:02.587Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Listening on 53836"}
+{"level":30,"time":"2021-11-01T03:03:04.316Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-01T03:03:04.332Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-01T03:03:04.648Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-01T03:03:04.648Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-01T03:03:08.964Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
+{"level":30,"time":"2021-11-01T03:03:09.077Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-01T03:03:09.662Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-01T03:03:10.235Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-01T03:03:10.912Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=a[href=\"/profile\"]"}
+{"level":30,"time":"2021-11-01T03:03:11.575Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-01T03:03:11.598Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element css=a[href=\"/profile\"] containing Karla Daiany"}
+{"level":30,"time":"2021-11-01T03:03:11.730Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-01T03:03:11.730Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-01T03:03:11.730Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-01T03:03:11.758Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-01T03:03:11.758Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-01T03:03:11.759Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-01T03:03:13.027Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-01T03:03:13.036Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-01T03:03:13.382Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-01T03:03:13.382Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-01T03:03:17.987Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
+{"level":30,"time":"2021-11-01T03:03:18.056Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-01T03:03:18.623Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-01T03:03:19.269Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=E-mail obrigatório"}
+{"level":30,"time":"2021-11-01T03:03:19.574Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-01T03:03:19.574Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-01T03:03:19.575Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-01T03:03:19.588Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-01T03:03:19.588Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-01T03:03:19.588Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-01T03:03:20.911Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-01T03:03:20.918Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-01T03:03:21.220Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-01T03:03:21.220Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-01T03:03:25.966Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
+{"level":30,"time":"2021-11-01T03:03:26.052Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-01T03:03:26.628Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-01T03:03:27.292Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Senha obrigatória"}
+{"level":30,"time":"2021-11-01T03:03:27.758Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-01T03:03:27.758Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-01T03:03:27.758Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-01T03:03:27.781Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-01T03:03:27.782Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-01T03:03:27.782Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-01T03:03:29.269Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-01T03:03:29.277Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-01T03:03:29.571Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-01T03:03:29.571Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-01T03:03:34.045Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
+{"level":30,"time":"2021-11-01T03:03:34.123Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-01T03:03:34.777Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: false"}
+{"level":30,"time":"2021-11-01T03:03:34.806Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//span[@class=\"error\"]"}
+{"level":30,"time":"2021-11-01T03:03:34.838Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"element= selector parsed without children"}
+{"level":30,"time":"2021-11-01T03:03:34.839Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-01T03:03:34.856Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element element=bec4a8ff-6e43-47a5-a0c0-681441f13d10 containing E-mail obrigatório"}
+{"level":30,"time":"2021-11-01T03:03:34.865Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"element= selector parsed without children"}
+{"level":30,"time":"2021-11-01T03:03:34.865Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-01T03:03:34.882Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element element=834c287c-adc6-463a-8a8c-816d302fc5a8 containing Senha obrigatória"}
+{"level":30,"time":"2021-11-01T03:03:35.202Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-01T03:03:35.202Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-01T03:03:35.202Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-01T03:03:35.216Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-01T03:03:35.216Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-01T03:03:35.216Z","pid":19036,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
