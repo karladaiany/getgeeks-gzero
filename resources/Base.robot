@@ -3,10 +3,13 @@ Documentation           Base Text
 
 Library                 Browser
 Library                 Collections
+
 Library                 factories/Users.py
 
-Resource                actions/SignupActions.robot
+Resource                actions/_SharedActions.robot
 Resource                actions/AuthActions.robot
+Resource                actions/SignupActions.robot
+
 Resource                Database.robot
 Resource                Helpers.robot
 
