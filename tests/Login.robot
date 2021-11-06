@@ -46,27 +46,31 @@ Incorrect Email
     Submit Credentials
     Should Be Type Email
 
+# Desafio 1 do módulo PRO
 
+# Automatizar 3 novos casos de testes: Email obrigatório, Senha obrigatória, Campos obrigatórios
 
-#Empty Email
+# Entrega: no Github
+
+Empty Email
     
-    # Go To Login Page
-    # Fill Password          pwd123    
-    # Submit Credentials
-    # Alert Span Should Be   E-mail obrigatório
+    Go To Login Page
+    Fill Password          pwd123    
+    Submit Credentials
+    Alert Span Should Be   E-mail obrigatório
 
-#Empty Password
+Empty Password
 
-    # Go To Login Page
-    # Fill Email  karllinhadeoliveira@live.com
-    # Submit Credentials
-    # Alert Span Should Be  Senha obrigatória
+    Go To Login Page
+    Fill Email             karllinhadeoliveira@live.com
+    Submit Credentials
+    Alert Span Should Be   Senha obrigatória
 
-#Required Fields 
-    # ${expected_alerts}      Create List
-    # ...                     E-mail obrigatório
-    # ...                     Senha obrigatória
+Required Fields 
+    ${expected_alerts}     Create List
+    ...                    E-mail obrigatório
+    ...                    Senha obrigatória
 
-    # Go To Login Page
-    # Submit Credentials
-    # Alert Spans Should Be  ${expected_alerts}
+    Go To Login Page
+    Submit Credentials
+    Alert Spans Should Be  ${expected_alerts}
