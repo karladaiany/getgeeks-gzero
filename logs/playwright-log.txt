@@ -1,122 +1,212 @@
-{"level":30,"time":"2021-11-06T04:12:57.002Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Listening on 63443"}
-{"level":30,"time":"2021-11-06T04:12:57.828Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-06T04:12:57.835Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:12:58.087Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-06T04:12:58.087Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:01.981Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
-{"level":30,"time":"2021-11-06T04:13:02.007Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=email"}
-{"level":30,"time":"2021-11-06T04:13:02.529Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=password"}
-{"level":30,"time":"2021-11-06T04:13:03.057Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
-{"level":30,"time":"2021-11-06T04:13:03.602Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=a[href=\"/profile\"]"}
-{"level":30,"time":"2021-11-06T04:13:03.944Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-06T04:13:03.957Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element css=a[href=\"/profile\"] containing Karla Daiany"}
-{"level":30,"time":"2021-11-06T04:13:04.053Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:04.053Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:04.053Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:04.065Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:04.065Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:04.065Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:04.971Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-06T04:13:04.977Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:05.175Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-06T04:13:05.175Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:09.059Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
-{"level":30,"time":"2021-11-06T04:13:09.091Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=email"}
-{"level":30,"time":"2021-11-06T04:13:09.623Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=password"}
-{"level":30,"time":"2021-11-06T04:13:10.145Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
-{"level":30,"time":"2021-11-06T04:13:10.692Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-title"}
-{"level":30,"time":"2021-11-06T04:13:11.293Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-06T04:13:11.310Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element css=.swal2-title containing Oops..."}
-{"level":30,"time":"2021-11-06T04:13:11.312Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-html-container"}
-{"level":30,"time":"2021-11-06T04:13:11.322Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-06T04:13:11.336Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element css=.swal2-html-container containing Usuário e/ou senha inválidos."}
-{"level":30,"time":"2021-11-06T04:13:11.532Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:11.532Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:11.532Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:11.551Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:11.551Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:11.551Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:12.606Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-06T04:13:12.613Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:12.888Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-06T04:13:12.888Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:16.741Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
-{"level":30,"time":"2021-11-06T04:13:16.762Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=email"}
-{"level":30,"time":"2021-11-06T04:13:17.287Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=password"}
-{"level":30,"time":"2021-11-06T04:13:17.840Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
-{"level":30,"time":"2021-11-06T04:13:18.399Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-title"}
-{"level":30,"time":"2021-11-06T04:13:18.718Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-06T04:13:18.731Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element css=.swal2-title containing Oops..."}
-{"level":30,"time":"2021-11-06T04:13:18.732Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-html-container"}
-{"level":30,"time":"2021-11-06T04:13:18.744Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-06T04:13:18.754Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element css=.swal2-html-container containing Usuário e/ou senha inválidos."}
-{"level":30,"time":"2021-11-06T04:13:18.905Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:18.905Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:18.905Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:18.917Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:18.917Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:18.917Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:19.885Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-06T04:13:19.891Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:20.074Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-06T04:13:20.074Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:24.172Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
-{"level":30,"time":"2021-11-06T04:13:24.194Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=email"}
-{"level":30,"time":"2021-11-06T04:13:24.718Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=password"}
-{"level":30,"time":"2021-11-06T04:13:25.235Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
-{"level":30,"time":"2021-11-06T04:13:25.768Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-06T04:13:25.775Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Retrieved dom property for element id=email containing email"}
-{"level":30,"time":"2021-11-06T04:13:25.937Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:25.937Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:25.937Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:25.952Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:25.952Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:25.952Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:26.838Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-06T04:13:26.847Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:27.031Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-06T04:13:27.031Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:31.015Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
-{"level":30,"time":"2021-11-06T04:13:31.036Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=password"}
-{"level":30,"time":"2021-11-06T04:13:31.566Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
-{"level":30,"time":"2021-11-06T04:13:32.129Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=E-mail obrigatório"}
-{"level":30,"time":"2021-11-06T04:13:32.302Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:32.302Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:32.302Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:32.313Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:32.314Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:32.314Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:33.315Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-06T04:13:33.321Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:33.592Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-06T04:13:33.592Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:37.611Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
-{"level":30,"time":"2021-11-06T04:13:37.645Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=email"}
-{"level":30,"time":"2021-11-06T04:13:38.163Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
-{"level":30,"time":"2021-11-06T04:13:38.718Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Senha obrigatória"}
-{"level":30,"time":"2021-11-06T04:13:38.913Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:38.913Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:38.913Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:38.925Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:38.925Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:38.925Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:39.811Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-11-06T04:13:39.819Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:40.114Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
-{"level":30,"time":"2021-11-06T04:13:40.114Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:44.087Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
-{"level":30,"time":"2021-11-06T04:13:44.127Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
-{"level":30,"time":"2021-11-06T04:13:44.666Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: false"}
-{"level":30,"time":"2021-11-06T04:13:44.672Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//span[@class=\"error\"]"}
-{"level":30,"time":"2021-11-06T04:13:44.679Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"element= selector parsed without children"}
-{"level":30,"time":"2021-11-06T04:13:44.679Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-06T04:13:44.682Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element element=6897201f-4151-4aff-8aca-dd5965b01b07 containing E-mail obrigatório"}
-{"level":30,"time":"2021-11-06T04:13:44.683Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"element= selector parsed without children"}
-{"level":30,"time":"2021-11-06T04:13:44.683Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
-{"level":30,"time":"2021-11-06T04:13:44.686Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element element=d5c3130b-c307-42d4-a2b0-cbf46a07e71a containing Senha obrigatória"}
-{"level":30,"time":"2021-11-06T04:13:44.848Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:44.849Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:44.849Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
-{"level":30,"time":"2021-11-06T04:13:44.860Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
-{"level":30,"time":"2021-11-06T04:13:44.860Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
-{"level":30,"time":"2021-11-06T04:13:44.860Z","pid":18168,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:03:16.223Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Listening on 62376"}
+{"level":30,"time":"2021-11-06T16:03:18.209Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-06T16:03:18.223Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:03:18.797Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-06T16:03:18.797Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:03:28.546Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
+{"level":30,"time":"2021-11-06T16:03:28.590Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-06T16:03:29.132Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-06T16:03:29.671Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-06T16:03:30.241Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=a[href=\"/profile\"]"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 5000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=a[href="/profile"]" to be visible
+============================================================
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:26427:45
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26310:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26291:53)
+    at fulfilled (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26282:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-11-06T16:03:35.732Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:03:35.732Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-06T16:03:35.733Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:03:35.746Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:03:35.746Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-06T16:03:35.746Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:03:36.739Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-06T16:03:36.749Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:03:37.024Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-06T16:03:37.024Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+================= Original suppressed error =================
+page.goto: Timeout 10000ms exceeded.
+=========================== logs ===========================
+navigating to "https://getgeeks-karla.herokuapp.com/", waiting until "load"
+============================================================
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:27262:49
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26668:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26649:53)
+    at fulfilled (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26640:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26578:15)
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:23569:52
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23515:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23496:53)
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:23490:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23486:12)
+    at takeScreenshot (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23542:12)
+    at PlaywrightServer.<anonymous> (C:\Python39\lib\site-packages\Browser\wrapper\index.js:24840:50)
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:24782:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26578:15)
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:23569:52
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23515:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23496:53)
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:23490:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23486:12)
+    at takeScreenshot (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23542:12)
+    at PlaywrightServer.<anonymous> (C:\Python39\lib\site-packages\Browser\wrapper\index.js:24840:50)
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:24782:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26578:15)
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:23569:52
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23515:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23496:53)
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:23490:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23486:12)
+    at takeScreenshot (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23542:12)
+    at PlaywrightServer.<anonymous> (C:\Python39\lib\site-packages\Browser\wrapper\index.js:24840:50)
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:24782:23)
+=============================================================
+{"level":30,"time":"2021-11-06T16:03:47.113Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:03:47.157Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:03:48.135Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-06T16:03:48.145Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:03:48.462Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-06T16:03:48.462Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:03:55.877Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
+{"level":30,"time":"2021-11-06T16:03:55.969Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-06T16:03:56.548Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-06T16:03:57.106Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-06T16:03:57.672Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-title"}
+{"level":30,"time":"2021-11-06T16:03:58.168Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-06T16:03:58.200Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element css=.swal2-title containing Oops..."}
+{"level":30,"time":"2021-11-06T16:03:58.205Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-html-container"}
+{"level":30,"time":"2021-11-06T16:03:58.229Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-06T16:03:58.253Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element css=.swal2-html-container containing Usuário e/ou senha inválidos."}
+{"level":30,"time":"2021-11-06T16:03:58.522Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:03:58.522Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-06T16:03:58.522Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:03:58.536Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:03:58.536Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-06T16:03:58.536Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:03:59.549Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-06T16:03:59.558Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:03:59.841Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-06T16:03:59.841Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:04:04.348Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
+{"level":30,"time":"2021-11-06T16:04:04.410Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2021-11-06T16:04:04.991Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-06T16:04:05.551Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-06T16:04:06.115Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-06T16:04:06.130Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Retrieved dom property for element id=email containing email"}
+{"level":30,"time":"2021-11-06T16:04:06.340Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:04:06.340Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-06T16:04:06.340Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:04:06.354Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:04:06.354Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-06T16:04:06.354Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:04:07.473Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-06T16:04:07.483Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:04:07.785Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-06T16:04:07.785Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:04:12.072Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
+{"level":30,"time":"2021-11-06T16:04:12.152Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2021-11-06T16:04:12.728Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-06T16:04:13.366Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=E-mail obrigatório"}
+{"level":30,"time":"2021-11-06T16:04:13.646Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:04:13.646Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-06T16:04:13.646Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:04:13.660Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:04:13.660Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-06T16:04:13.660Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:04:14.810Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-06T16:04:14.827Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:04:15.160Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-06T16:04:15.160Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+================= Original suppressed error =================
+page.goto: Timeout 10000ms exceeded.
+=========================== logs ===========================
+navigating to "https://getgeeks-karla.herokuapp.com/", waiting until "load"
+============================================================
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:27262:49
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26668:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26649:53)
+    at fulfilled (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26640:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26578:15)
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:23569:52
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23515:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23496:53)
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:23490:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23486:12)
+    at takeScreenshot (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23542:12)
+    at PlaywrightServer.<anonymous> (C:\Python39\lib\site-packages\Browser\wrapper\index.js:24840:50)
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:24782:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26578:15)
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:23569:52
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23515:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23496:53)
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:23490:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23486:12)
+    at takeScreenshot (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23542:12)
+    at PlaywrightServer.<anonymous> (C:\Python39\lib\site-packages\Browser\wrapper\index.js:24840:50)
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:24782:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26578:15)
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:23569:52
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23515:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23496:53)
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:23490:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23486:12)
+    at takeScreenshot (C:\Python39\lib\site-packages\Browser\wrapper\index.js:23542:12)
+    at PlaywrightServer.<anonymous> (C:\Python39\lib\site-packages\Browser\wrapper\index.js:24840:50)
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:24782:23)
+=============================================================
+{"level":30,"time":"2021-11-06T16:04:25.191Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:04:25.198Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:04:26.705Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-06T16:04:26.721Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:04:27.129Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-06T16:04:27.129Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:04:31.796Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
+{"level":30,"time":"2021-11-06T16:04:31.869Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2021-11-06T16:04:32.505Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: false"}
+{"level":30,"time":"2021-11-06T16:04:32.534Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Page|Frame|Element resolved elementSelector: xpath=//span[@class=\"error\"]"}
+{"level":30,"time":"2021-11-06T16:04:32.571Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"element= selector parsed without children"}
+{"level":30,"time":"2021-11-06T16:04:32.571Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-06T16:04:32.589Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element element=a996b493-8370-46ca-8a9c-a0ac2ea5d318 containing E-mail obrigatório"}
+{"level":30,"time":"2021-11-06T16:04:32.598Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"element= selector parsed without children"}
+{"level":30,"time":"2021-11-06T16:04:32.598Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-11-06T16:04:32.615Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Retrieved text for element element=08932d56-3a69-4b42-a311-ddb1a4e59a00 containing Senha obrigatória"}
+{"level":30,"time":"2021-11-06T16:04:32.914Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:04:32.914Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-06T16:04:32.914Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
+{"level":30,"time":"2021-11-06T16:04:32.929Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active context"}
+{"level":30,"time":"2021-11-06T16:04:32.929Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-06T16:04:32.929Z","pid":15376,"hostname":"KarlaDaiany-Predator","msg":"Changed active page"}
