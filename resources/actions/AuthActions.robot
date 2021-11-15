@@ -31,13 +31,3 @@ User Should Be Logged In
 
 Should Be Type Email
     Get Property       ${INPUT_EMAIL}        type        equal       email
-
-Fill Email
-    [Arguments]         ${email}
-
-    Fill Text           ${INPUT_EMAIL}    ${email}
-
-Fill Password
-    [Arguments]         ${password}
-
-    Fill Text           ${INPUT_PASS}    ${password}
