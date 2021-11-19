@@ -3,9 +3,8 @@ Documentation           Signup actions
 
 *Keywords*
 Go To Signup Form
-    Go To          ${BASE_URL}/signup
+    Go To               ${BASE_URL}/signup
 
-    #Checkpoint
     Wait For Elements State     css=.signup-form    visible     5
 
 Fill Signup Form

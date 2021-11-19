@@ -8,6 +8,7 @@ Test Teardown       Finish Session
 
 *Test Cases*
 Register a new user
+    [Tags]          smoke
 
     ${user}         Factory User    faker
 
@@ -33,7 +34,7 @@ Wrong email
     ${user}         Factory User    wrong_email
 
     Go To Signup Form
-    Fill Signup Form    ${user}
+    Fill Signup Form      ${user}
     Submit Signup Form
     Alert Span Should Be  O email está estranho 
 
@@ -76,6 +77,6 @@ Signup With Short Pass
     ...             email=karla@msn.com     password=${short_pass}
 
     Go To Signup Form
-    Fill Signup Form  ${user}
+    Fill Signup Form    ${user}
     Submit Signup Form
     Alert Span Should Be  Informe uma senha com pelo menos 6 caracteres 

@@ -16,13 +16,3 @@ Do Login
     Fill Credentials    ${user}
     Submit Credentials
     User Should Be Logged In   ${user}
-
-Suite Session Template
-    
-    New Browser         chromium        headless=False      slowMo=00:00:00.5
-    New Page            ${BASE_URL}
-
-    ${user}             Factory User    be_geek
-    Do Login            ${user}
-
-    Go To Geek Form
