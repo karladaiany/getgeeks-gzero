@@ -35,7 +35,7 @@ Do Required Fields Be Geek
 
     Alert Span Should Be  ${expected_alert}
 
-    Take Screenshot       fullPage=True
+    After Test
 
 Suite Session Template
     
