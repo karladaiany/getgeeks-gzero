@@ -49,10 +49,10 @@ Get Geek List
 
     FOR     ${geek}     IN     @{data}[geeks]
 
-        POST User  ${geek}
-        ${token}    Get Token  ${geek}
+        POST User       ${geek}
+        ${token}        Get Token       ${geek}
 
-        POST Geek   ${token}    ${geek}[geek_profile]
+        POST Geek       ${token}        ${geek}[geek_profile]
 
     END
 

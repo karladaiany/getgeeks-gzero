@@ -10,11 +10,11 @@ Get Token
     ...                 email=${user}[email]
     ...                 password=${user}[password]
 
-    ${response}         POST Session    ${payload}
-    ${result}           Set Variable    ${EMPTY}
+    ${response}         POST Session     ${payload}
+    ${result}           Set Variable     ${EMPTY}
 
     IF  "200" in "${response}"
-        ${result}            Set Variable       Bearer ${response.json()}[token]
+        ${result}       Set Variable       Bearer ${response.json()}[token]
     END
 
     [return]            ${result}
@@ -22,7 +22,7 @@ Get Token
 Remove User
     [Arguments]         ${user}
 
-    ${token}            Get Token   ${user} 
+    ${token}            Get Token     ${user} 
 
     IF  "${token}"
         DELETE User     ${token}

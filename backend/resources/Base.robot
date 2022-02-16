@@ -11,5 +11,5 @@ Resource                Helpers.robot
 
 
 *Variables*
-${API_USERS}        https://getgeeks-users-karla.herokuapp.com
-${API_GEEKS}        https://getgeeks-geeks-karla.herokuapp.com
+${API_USERS}            https://getgeeks-users-karla.herokuapp.com
+${API_GEEKS}            https://getgeeks-geeks-karla.herokuapp.com

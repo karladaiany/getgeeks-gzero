@@ -1,29 +1,29 @@
 *Settings*
-Documentation       Users route test suite
+Documentation           Users route test suite
 
-Resource            ${EXECDIR}/resources/Base.robot
+Resource                ${EXECDIR}/resources/Base.robot
 
 *Test Cases*
 Add new User
 
-    ${user}          Factory New User
-    Remove User      ${user}
+    ${user}              Factory New User
+    Remove User          ${user}
     
 
-    ${response}         POST User   ${user}
-    Status Should Be    201         ${response}
+    ${response}          POST User   ${user}
+    Status Should Be     201         ${response}
 
-    ${user_id}          Set Variable        ${response.json()}[id]
-    Should Be True      ${user_id} > 0
+    ${user_id}           Set Variable        ${response.json()}[id]
+    Should Be True       ${user_id} > 0
 
 Get user data
 
-    ${user}          Factory Get User
-    POST User        ${user}  
+    ${user}              Factory Get User
+    POST User            ${user}  
 
-    ${token}            Get Token       ${user} 
-    ${response}         GET User        ${token} 
-    Status SHould Be    200             ${response} 
+    ${token}             Get Token       ${user} 
+    ${response}          GET User        ${token} 
+    Status SHould Be     200             ${response} 
 
     Should Be Equal As Strings      ${user}[name]       ${response.json()}[name]
     Should Be Equal As Strings      ${user}[email]      ${response.json()}[email]
@@ -35,17 +35,17 @@ Get user data
 Remove user
 
     # Dado que existe um usuário no sistema
-    ${user}             Factory Remove User
-    POST User           ${user}  
+    ${user}              Factory Remove User
+    POST User            ${user}  
 
     # E tenho um token desse usuário
-    ${token}            Get Token          ${user} 
+    ${token}             Get Token          ${user} 
 
     # Quando faço uma solicitação de remoção na rota /user
-    ${response}         DELETE User        ${token} 
+    ${response}          DELETE User        ${token} 
 
     # Então deve retornar o status code 204 (no content)
-    Status SHould Be    204                ${response} 
+    Status SHould Be     204                ${response} 
 
     # E ao fazer uma requisição GET, deve retornar o status code 404 (not found)
     ${response}         GET User           ${token}

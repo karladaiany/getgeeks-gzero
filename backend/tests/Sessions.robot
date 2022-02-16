@@ -15,20 +15,24 @@ Resource            ${EXECDIR}/resources/Base.robot
 *Test Cases*
 User session
 
+    # Dado que temos um usuário cadastrado
     ${payload}      Factory User Session    signup
-    POST User  ${payload}
+    POST User       ${payload}
 
     ${payload}      Factory User Session    login
 
-    ${response}     POST Session  ${payload}
+    # Quando faço uma requisição POST na rota /sessions
+    ${response}     POST Session            ${payload}
 
-    Status Should Be        200                 ${response}
+    # Então o status code deve ser 200
+    Status Should Be        200             ${response}
 
-    ${size}                 Get Length          ${response.json()}[token]
-    ${expected_size}        Convert To Integer  140
-
-    Should Be Equal         ${expected_size}    ${size}
-    Should Be Equal         10d                 ${response.json()}[expires_in]
+    # E deve gerar um token JWT
+    ${size}                 Get Length      ${response.json()}[token]
+    Should Be True          ${size} > 0
+    
+    # E esse token deve espirar em 10 dias
+    Should Be Equal         10d             ${response.json()}[expires_in]
 
 Should Not Get Token
     [Template]      Attempt POST Session
