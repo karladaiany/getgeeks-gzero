@@ -3,6 +3,7 @@ Documentation           Base Text
 
 Library                 Browser
 Library                 Collections
+Library                 String
 
 Library                 factories/Users.py
 Library                 Utils.py
